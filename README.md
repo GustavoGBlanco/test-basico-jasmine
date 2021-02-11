@@ -15,7 +15,7 @@ Jasmine es un marco de desarrollo basado en el comportamiento para probar códig
   - Relevante en el futuro
   - Veracidad de la prueba
   
-## Instalación, configuraci{on y despliegue de pruebas
+## Instalación, configuración y despliegue de pruebas
 
 Instalación:
   - ` npm install -g jasmine `
