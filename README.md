@@ -27,4 +27,4 @@ Comprobación de la instalación de jasmine:
   - ` jasmine init `
   
 Ejecución de pruebas:
-  - ` jasmine / Jasmine [ubicacionArchivo] `
+  - ` jasmine / jasmine [ubicacionArchivo] `
